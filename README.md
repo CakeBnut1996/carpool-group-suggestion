@@ -96,6 +96,8 @@ Figure 5. Elbow chart of K-means:
 
 ![image](https://user-images.githubusercontent.com/46463367/188283708-b4ed2737-00fd-44cf-b216-67ecc218afea.png =250x250)
 
+<img src="https://user-images.githubusercontent.com/46463367/188283708-b4ed2737-00fd-44cf-b216-67ecc218afea.png" width="200" height="200" />
+
 c.	Result
 
 The clustering result is shown below. Same color might be used for different clusters. But clusters that are adjacent are colored differently. 
