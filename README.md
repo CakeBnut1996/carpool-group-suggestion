@@ -94,9 +94,7 @@ Elbow chart is drawn to find the best number of clusters. The optimal number is 
 
 Figure 5. Elbow chart of K-means:
 
-![image](https://user-images.githubusercontent.com/46463367/188283708-b4ed2737-00fd-44cf-b216-67ecc218afea.png =250x250)
-
-<img src="https://user-images.githubusercontent.com/46463367/188283708-b4ed2737-00fd-44cf-b216-67ecc218afea.png" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/46463367/188283708-b4ed2737-00fd-44cf-b216-67ecc218afea.png" width="400" height="400" />
 
 c.	Result
 
@@ -105,7 +103,7 @@ The clusters are divided exhaustively and all the clusters are relative small.
 
 Figure 6. Cluster result of K-means:
 
-![image](https://user-images.githubusercontent.com/46463367/188283726-e9eb6566-a428-49a1-bddf-6728e96fcb89.png)
+<img src="https://user-images.githubusercontent.com/46463367/188283726-e9eb6566-a428-49a1-bddf-6728e96fcb89.png" width="400" height="400" />
 
 d.	Iteration
 The number of clusters could be changed many times to see if the max distance within each group is small enough (best within walking distance)
